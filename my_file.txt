@@ -1,2 +1,6 @@
 Hello, this is my first Git experiment.
+<<<<<<< HEAD
 Adding a second line. 
+=======
+This is a change for Experiment 2,
+>>>>>>> 82736826b83a54cd754d701270723e6b581bf67f
