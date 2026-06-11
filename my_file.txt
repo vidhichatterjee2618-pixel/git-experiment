@@ -1,11 +1,13 @@
+ feature-stash
+This is some incomplete work for Experiment 5
 Hello, this is my first Git experiment.
-<<<<<<< HEAD
+HEAD
 Adding a second line. 
-=======
 This is a change for Experiment 2,
->>>>>>> 82736826b83a54cd754d701270723e6b581bf67f
+82736826b83a54cd754d701270723e6b581bf67f
 Working on Experiment 4- Branching 
 Main branch text change 
 Main branch text change
 Feature branch conflicting text change
 Auth Functionality: User Login Session Management Initialised.
+main
